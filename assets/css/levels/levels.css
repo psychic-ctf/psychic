@@ -1,0 +1,13 @@
+.error{
+	color: red;
+}
+
+.team-area{
+  background: url(../../images/levels/bg3.jpg) no-repeat center center / cover;
+  min-height: calc(100vh - 170px);
+}
+
+.level-area{
+  background-color: #666666;
+  opacity: 55%;
+}
